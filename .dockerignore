@@ -1,0 +1,4 @@
+# Make sure these ARE NOT excluded:
+# node_modules
+# !prisma/schema.prisma
+# !prisma/migrations
